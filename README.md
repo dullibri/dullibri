@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dirk</h1>
-<h3 align="center">A data scientist from Germany</h3>
+<h3 align="center">A data engineer with a data science background from Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ulbrichtdirk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ulbrichtdirk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dirk-ulbricht-24a14444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dirk-ulbricht-24a14444" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dr-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dirk-ulbricht-24a14444" height="30" width="40" /></a>
 </p>
 <h3 align="left">What I am currently working on:</h3>
 I am building models for fraud detection in insurance. 
