@@ -9,9 +9,8 @@
 <h3 align="left">What I am currently working on:</h3>
 I am maintaining and extending a Snowflake datawarehouse with a medallion architecture. The main tools I use are dbt, airflow and databricks. I am working in AWS and I commit my changes in a CI/CD Framework on bitbucket.
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-
-</a> <a href="https://www.databricks.com/" target="_blank"> <img src="https://de.wikipedia.org/wiki/Datei:Databricks_Logo.png" alt="css3" width="40" height="40"/></a> 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://www.databricks.com/" target="_blank"> <img src="https://brandfetch.com/databricks.com?library=default&collection=logos&asset=id5WLjUbLd&view=library" alt="databricks" width="40" height="40"/></a> 
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
