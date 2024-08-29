@@ -54,7 +54,7 @@
 
 <h3 align="left">🌟 Interessante Fakten über mich:</h3>
 <ul>
-  <li>🔬 Promoviert in [Ihr Fachgebiet]</li>
+  <li>🔬 Promoviert in Volkswirtschaft (Öknometrie=Angewandte Statistik)</li>
   <li>🌱 Ständig am Lernen und Verbessern meiner Fähigkeiten in Data Engineering und Data Science</li>
   <li>💡 Begeistert von der Kombination aus Datenanalyse und Engineering zur Lösung komplexer Probleme</li>
 </ul>
