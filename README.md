@@ -43,4 +43,4 @@
 
 ## 📊 GitHub Statistiken
 
-![Dirks GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Dirks GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=dullibri&show_icons=true&theme=radical)
