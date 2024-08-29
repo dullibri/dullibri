@@ -1,66 +1,46 @@
-<h1 align="center">Willkommen! 👋 Ich bin Dirk</h1>
-<h3 align="center">Data Engineer mit Data Science Hintergrund aus Deutschland 🇩🇪</h3>
+# Hi 👋, ich bin Dirk
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue" alt="Focus: Data Engineering">
-  <img src="https://img.shields.io/badge/Skills-Snowflake%20%7C%20dbt%20%7C%20Airflow%20%7C%20Databricks-orange" alt="Skills">
-  <img src="https://img.shields.io/badge/Cloud-AWS-yellow" alt="Cloud: AWS">
-</p>
+### Data Engineer mit Data Science Hintergrund aus Deutschland
 
-<h3 align="left">🔭 Aktuelles Projekt:</h3>
-<p>
-  Ich arbeite an der Wartung und Erweiterung eines Snowflake Data Warehouse mit Medallion-Architektur. Mein Tech-Stack umfasst:
-  <ul>
-    <li>🛠 dbt für Datentransformationen</li>
-    <li>🌪 Apache Airflow für Workflow-Orchestrierung</li>
-    <li>⚡ Databricks für Big Data Processing</li>
-    <li>☁️ AWS als Cloud-Plattform</li>
-    <li>🔄 CI/CD mit Bitbucket für effizientes Deployment</li>
-  </ul>
-</p>
+## 🔭 Woran ich aktuell arbeite
 
-<h3 align="left">🤝 Lass uns vernetzen:</h3>
-<p align="left">
-  <a href="https://twitter.com/@ulbrichtdirk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ulbrichtdirk" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/dr-u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dirk-ulbricht-24a14444" height="30" width="40" /></a>
-</p>
+- Wartung und Erweiterung eines Snowflake-Datawarehouses mit Medallion-Architektur
+- Hauptwerkzeuge: dbt, Airflow und Databricks
+- AWS-Umgebung mit CI/CD-Framework auf Bitbucket
+- Lerne Flutter für Mobile App Entwicklung
+- Rechtliche Einordnung von Zahlungsgarantien mit AWS Bedrock und Claude (Prompt Engineering)
 
-<h3 align="left">🛠 Technologien & Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+## 🌱 Was ich gerade lerne
 
-<h3 align="left">📚 Weitere Kompetenzen:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</p>
+- Flutter für Cross-Platform App-Entwicklung
+- Fortgeschrittenes Prompt Engineering mit Large Language Models
 
-<h3 align="left">📈 GitHub Statistiken:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" />
-</p>
+## 💼 Berufserfahrung
 
-<h3 align="left">🌟 Interessante Fakten über mich:</h3>
-<ul>
-  <li>🔬 Promoviert in Volkswirtschaft (Öknometrie=Angewandte Statistik)</li>
-  <li>🌱 Ständig am Lernen und Verbessern meiner Fähigkeiten in Data Engineering und Data Science</li>
-  <li>💡 Begeistert von der Kombination aus Datenanalyse und Engineering zur Lösung komplexer Probleme</li>
-</ul>
+- Data Engineer mit Fokus auf Cloud-Datenarchitekturen
+- Hintergrund in Data Science und maschinellem Lernen
 
-<h3 align="left">📫 Kontakt:</h3>
-<p>
-  Für Kollaborationen oder Fragen zu meiner Arbeit, erreichen Sie mich gerne über LinkedIn oder Twitter!
-</p>
-Last edited vor 1 Minute
+## 🛠 Technologien & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=Databricks&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+## 📫 Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dr-u)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@ulbrichtdirk)
+
+## 📊 GitHub Statistiken
+
+![Dirks GitHub Statistiken](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
